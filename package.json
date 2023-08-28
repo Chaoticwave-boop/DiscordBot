@@ -1,5 +1,24 @@
 {
   "dependencies": {
+    "discord.js": "^14.13.0",
     "undici": "^5.23.0"
-  }
+  },
+  "name": "discordbot",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chaoticwave-boop/DiscordBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chaoticwave-boop/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/Chaoticwave-boop/DiscordBot#readme"
 }
